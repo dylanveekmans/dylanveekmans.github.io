@@ -1,6 +1,6 @@
-## Welcome to GitHub Pagethe HydocNetworks
+## Welcome to the HydocNetwork 
 
-placeholder(url)
+ip: HydocNetwork.subip.net(url)
 
 placeholder
 
